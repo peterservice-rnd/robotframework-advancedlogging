@@ -1,5 +1,7 @@
 # RobotFramework Advanced Logging Library
 
+[![Build Status](https://travis-ci.org/peterservice-rnd/robotframework-advancedlogging.svg?branch=master)](https://travis-ci.org/peterservice-rnd/robotframework-advancedlogging)
+
 Short Description
 ---
 
