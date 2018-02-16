@@ -24,10 +24,10 @@ See keyword documentation for robotframework-advancedlogging library in folder `
 | Library     |  SSHLibrary        |          |                 |
 
 
-| Test cases | Action  | Argument |
-|----|----|---|
-| Example_TestCase | ${out}= | Execute Command |  grep error output.log |
-| | Write advanced testlog    | error.log | ${out}|
+| Test cases       | Action                    | Argument        | Argument               |
+|------------------|---------------------------|-----------------|------------------------|
+| Example_TestCase | ${out}=                   | Execute Command |  grep error output.log |
+|                  | Write advanced testlog    | error.log       | ${out}                 |
 
 
 ``` 
