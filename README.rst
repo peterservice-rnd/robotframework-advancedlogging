@@ -55,6 +55,3 @@ Apache License 2.0
 
 .. |Build Status| image:: https://travis-ci.org/peterservice-rnd/robotframework-advancedlogging.svg?branch=master
    :target: https://travis-ci.org/peterservice-rnd/robotframework-advancedlogging
-pandoc 2.1.1
-
-© 2013–2015 John MacFarlane
