@@ -9,7 +9,7 @@ from setuptools import setup
 here = path.abspath(path.dirname(__file__))
 
 # Get the long description from the README file
-with open(path.join(here, 'README.md'), encoding='utf-8') as f:
+with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 # Get install requires from requirements.txt
@@ -18,8 +18,8 @@ with open(path.join(here, 'requirements.txt')) as f:
 
 setup(
     name='robotframework-advancedlogging',
-    version='1.0.0',
-    description='A Robot Framework Advanced Logging Library',
+    version='1.0.1',
+    description='Robot Framework Advanced Logging Library',
     long_description=long_description,
     url='https://github.com/peterservice-rnd/robotframework-advancedlogging',
     author='JSC PETER-SERVICE',
