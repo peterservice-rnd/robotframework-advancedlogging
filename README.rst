@@ -22,7 +22,7 @@ See keyword documentation for robotframework-advancedlogging library in
 folder ``docs``.
 
 Example
-=======
+-------
 
 +----------+-----------------+---------+---------------+
 | Settings | Value           | Value   | Value         |
